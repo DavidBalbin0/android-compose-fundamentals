@@ -7,10 +7,8 @@ Throughout the project, I experimented with various components such as OutlinedT
 
 The project also provides insights into essential UI controls like Radio, CheckBox, Button, and TextFields, showcasing my exploration of available options to enhance user experiences.
 
-Below is a screenshot showcasing the user interface of the "ComposeFundamentals" project, featuring the key components and layout design.
-
 Download the project APK [HERE](https://github.com/DavidBalbin0/android-compose-fundamentals/raw/main/compose-fundamentals.apk)
 
-Below is a screenshot showcasing the user interface of the "ComposeFundamentals" project, featuring the key components and layout design.
+Below is a screenshot showcasing the user interface of this project, featuring the key components and layout design.
 
 ![project screen](https://i.imgur.com/l6h6sXQ.png)
