@@ -9,7 +9,7 @@ The project also provides insights into essential UI controls like Radio, CheckB
 
 Below is a screenshot showcasing the user interface of the "ComposeFundamentals" project, featuring the key components and layout design.
 
-Download the project APK [HERE]()
+Download the project APK [HERE](https://github.com/DavidBalbin0/android-compose-fundamentals/raw/main/compose-fundamentals.apk)
 
 Below is a screenshot showcasing the user interface of the "ComposeFundamentals" project, featuring the key components and layout design.
 
